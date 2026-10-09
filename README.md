@@ -10,11 +10,21 @@ Me! EveyKay: https://github.com/EveyKay
 - BOM [`BOM.md`](BOM.md)
 - PBC, Work in progress
 - Final Code, Work in Progress
+## code 
+Here is the most current version of code, it is still very much a prototype right now 
 
+## Pcb 
+Here is the picture of the Pcb that I Made: 
+- And here is the file for the pcb I Made: 
+- I made my PCB in kicad
+
+### Wiring kinda 
+just for fun here is the first draft of the wiring for the smart coaster 
 ## History
 ### Tinkercad Prototype 
 Im am not that good at electronics ... Yet. so because of my lack of experience I decided to make a digital prototype through tinkercad so I could mess around with pins on the micro controller and  practice coding. here is a picture of v1 of the smart coaster and the code I make in tinker cad, neither of these will be used in the final version. 
-![Image of v1](Screenshot 2026-10-09 2.37.41 PM.png)
+<img width="757" height="503" alt="Screenshot 2026-10-09 2 37 41 PM" src="https://github.com/user-attachments/assets/ed87bb9f-1a5c-4623-b340-baee6f63b9b4" />
+
 ```py
 // C++ code
 //
@@ -81,3 +91,5 @@ void loop()
   }
 }
 ```
+### First ever plans
+Here is a picture of my first ever plans for this project, feel free to check out journal to see more history
