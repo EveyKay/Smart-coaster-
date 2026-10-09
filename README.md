@@ -14,6 +14,7 @@ Me! EveyKay: https://github.com/EveyKay
 ## History
 ### Tinkercad Prototype 
 Im am not that good at electronics ... Yet. so because of my lack of experience I decided to make a digital prototype through tinkercad so I could mess around with pins on the micro controller and  practice coding. here is a picture of v1 of the smart coaster and the code I make in tinker cad, neither of these will be used in the final version. 
+(Screenshot 2026-10-09 2.37.41 PM.png)
 ```py
 // C++ code
 //
