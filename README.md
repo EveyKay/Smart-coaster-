@@ -94,5 +94,4 @@ void loop()
   }
 }
 ```
-### First ever plans
-Here is a picture of my first ever plans for this project, feel free to check out journal to see more history
+
