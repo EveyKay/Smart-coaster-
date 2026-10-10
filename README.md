@@ -11,15 +11,18 @@ Me! EveyKay: https://github.com/EveyKay
 - PBC, Work in progress
 - Final Code, Work in Progress
 ## code 
-Here is the most current version of code, it is still very much a prototype right now 
+Here is the most current version of code, it is still very much a prototype right now, it doesn't actually work for the board that I made because it was for a prototype: [`tinker_cad_prototype_code1.ino`](tinker_cad_prototype_code1.ino)
 
 ## Pcb 
-Here is the picture of the Pcb that I Made: 
-- And here is the file for the pcb I Made: 
+Here is the pictures of the Pcb that I Made and the schematic: 
+<img width="620" height="734" alt="Eveys Engineering project — PCB Editor 10_10_2026 7_12_11 AM" src="https://github.com/user-attachments/assets/096a8248-d11d-402a-94b5-59897f98a901" />
+<img width="1708" height="914" alt="Eveys Engineering project" src="https://github.com/user-attachments/assets/6db1b35d-5f19-40ac-a691-2c981b7d8a71" />
+
+- And here is the ki cad file for the pcb I Made: [`Eveys Engineering project.kicad_pcb`](Eveys Engineering project.kicad_pcb)
+- all the other files like the drill files and the schematic file are all also in the repository 
 - I made my PCB in kicad
 
-### Wiring kinda 
-just for fun here is the first draft of the wiring for the smart coaster 
+ 
 ## History
 ### Tinkercad Prototype 
 Im am not that good at electronics ... Yet. so because of my lack of experience I decided to make a digital prototype through tinkercad so I could mess around with pins on the micro controller and  practice coding. here is a picture of v1 of the smart coaster and the code I make in tinker cad, neither of these will be used in the final version. 
