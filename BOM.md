@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Raspberry pi pico](https://www.mouser.com/ProductDetail/358-SC0915) | The Brian | 1 | $4.00 | $4.00 | [Mouser](https://www.mouser.com/ProductDetail/358-SC0915) |
 | [Pico header kit](https://www.sparkfun.com/raspberry-pi-pico-header-kit.html) | For connecting the pressure sensor | 1 | $1.50 | $1.50 | [Sparkfun](https://www.sparkfun.com/raspberry-pi-pico-header-kit.html) |
 | [0.91" I2C OLED, ER-OLEDM0.91-1W-I2C (U2)](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) | For the screen | 1 | $2.80 | $2.80 | [Buydisplay.com](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) |
 | [MCP73831T-2ACI/MC charger (U1)](https://www.lcsc.com/product-detail/C411870.html) | Charging capabilities | 1 | $1.01 | $1.01 | [Lcsc](https://www.lcsc.com/product-detail/C411870.html) |
@@ -24,8 +23,8 @@
 | [TDK PS1240P02BT piezo buzzer (BZ1)](https://www.mouser.com/ProductDetail/810-PS1240P02BT) | The buzzer | 1 | $0.73 | $0.73 | [Mouser](https://www.mouser.com/ProductDetail/810-PS1240P02BT) |
 | [Round force-sensitive resistor (FSR)](https://www.adafruit.com/product/166) | To sense your cup | 1 | $3.95 | $3.95 | [Adafruit](https://www.adafruit.com/product/166) |
 | [LiPo battery 3.7V 500mAh](https://www.adafruit.com/product/1578) | For the power | 1 | $7.95 | $7.95 | [Adafruit](https://www.adafruit.com/product/1578) |
-| **Parts subtotal** | — | — | — | **$28.42** | — |
+| **Parts subtotal** | — | — | — | **$24.42** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.42** | — |
+| **Total** | — | — | — | **$24.42** | — |
 
-$1.58 left of the tier's funding.
+$5.58 left of the tier's funding.
