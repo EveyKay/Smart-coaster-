@@ -12,19 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Pico header kit](https://www.sparkfun.com/raspberry-pi-pico-header-kit.html) | For connecting the pressure sensor | 1 | $1.50 | $1.50 | [Sparkfun](https://www.sparkfun.com/raspberry-pi-pico-header-kit.html) |
-| [0.91" I2C OLED, ER-OLEDM0.91-1W-I2C (U2)](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) | For the screen | 1 | $2.80 | $2.80 | [Buydisplay.com](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) |
-| [MCP73831T-2ACI/MC charger (U1)](https://www.lcsc.com/product-detail/C411870.html) | Charging capabilities | 1 | $1.01 | $1.01 | [Lcsc](https://www.lcsc.com/product-detail/C411870.html) |
-| [JST S2B-PH-SM4-TB connector (J1)](https://www.lcsc.com/product-detail/C295747.html) | To connect other parts | 1 | $1.19 | $1.19 | [LCSC](https://www.lcsc.com/product-detail/C295747.html) |
-| [1x2 male pin header (J2)](https://www.lcsc.com/product-detail/C295747.html) | To connect things | 1 | $0.90 | $0.90 | [LCSC](https://www.lcsc.com/product-detail/C295747.html) |
-| [SS14 Schottky diode (D4)](https://www.lcsc.com/product-detail/C295747.html) | To help the power system | 1 | $0.62 | $0.62 | [LCSC](https://www.lcsc.com/product-detail/C295747.html) |
-| [Resistors, capacitors and LEDs](https://www.lcsc.com/) | To resist, capacitor, and light up | 1 | $2.49 | $2.49 | [LCSC](https://www.lcsc.com/) |
-| [C&K PCM12SMTR slide switch (SW1)](https://www.mouser.com/ProductDetail/611-PCM12SMTR) | To turn it on and off | 1 | $1.28 | $1.28 | [Mouser](https://www.mouser.com/ProductDetail/611-PCM12SMTR) |
-| [TDK PS1240P02BT piezo buzzer (BZ1)](https://www.mouser.com/ProductDetail/810-PS1240P02BT) | The buzzer | 1 | $0.73 | $0.73 | [Mouser](https://www.mouser.com/ProductDetail/810-PS1240P02BT) |
-| [Round force-sensitive resistor (FSR)](https://www.adafruit.com/product/166) | To sense your cup | 1 | $3.95 | $3.95 | [Adafruit](https://www.adafruit.com/product/166) |
 | [LiPo battery 3.7V 500mAh](https://www.adafruit.com/product/1578) | For the power | 1 | $7.95 | $7.95 | [Adafruit](https://www.adafruit.com/product/1578) |
-| **Parts subtotal** | — | — | — | **$24.42** | — |
+| **Parts subtotal** | — | — | — | **$7.95** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.42** | — |
+| **Total** | — | — | — | **$7.95** | — |
 
-$5.58 left of the tier's funding.
+$22.05 left of the tier's funding.
