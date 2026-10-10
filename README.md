@@ -18,7 +18,7 @@ Here is the pictures of the Pcb that I Made and the schematic:
 <img width="620" height="734" alt="Eveys Engineering project — PCB Editor 10_10_2026 7_12_11 AM" src="https://github.com/user-attachments/assets/096a8248-d11d-402a-94b5-59897f98a901" />
 <img width="1708" height="914" alt="Eveys Engineering project" src="https://github.com/user-attachments/assets/6db1b35d-5f19-40ac-a691-2c981b7d8a71" />
 
-- And here is the ki cad file for the pcb I Made: [`Eveys Engineering project.kicad_pcb`](Eveys Engineering project.kicad_pcb)
+- And here is the ki cad file for the pcb I Made: Eveys Engineering project.kicad_pcb
 - all the other files like the drill files and the schematic file are all also in the repository 
 - I made my PCB in kicad
 
