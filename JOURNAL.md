@@ -97,3 +97,6 @@ Here is a list all the commits I made and what they did,
 - removed an unneeded section in the readme
 - a lot of syncing the BOM with halflife when I made the BOM.
 - updating the journal with this list of the commits 
+### August 13
+- added bom.csv
+- added bom to readme
