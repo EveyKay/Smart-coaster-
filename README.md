@@ -12,26 +12,28 @@ Me! EveyKay: https://github.com/EveyKay
 - Final Code, Work in Progress
 ## Bill of Materials
 
-| Part | What it's for | Qty | Unit | Total | Vendor |
-| --- | --- | --- | --- | --- | --- |
-| [Oled screen](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) | The screen | 1 | $2.80 | $2.80 | Buydisplay.com |
-| [Raspberry Pi Pico (SC0915)](https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D) | The brain | 1 | $6.49 | $6.49 | Mouser |
-| [MCP73831T-2ACI/MC](https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D) | Battery charger | 1 | $1.30 | $1.30 | Mouser |
-| [JST S2B-PH-SM4-K-TB(LF)(SN)](https://www.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-K-TB-LFSN?qs=QpmGXVUTftGuZtpTcKbMuQ%3D%3D) | Battery connector | 1 | $0.89 | $0.89 | Mouser |
-| [onsemi SS14 Schottky diode](https://www.mouser.com/en/ProductDetail/onsemi/SS14?qs=mVVXn4M53U%252BvrBaFv5vr4w%3D%3D) | Power system | 1 | $0.71 | $0.71 | Mouser |
-| [Adafruit 166 round FSR](https://www.mouser.com/en/ProductDetail/Adafruit/166?qs=GURawfaeGuBZazGyM1uUyQ%3D%3D) | To sense the cup | 1 | $6.40 | $6.40 | Mouser |
-| [C&K PCM12SMTR switch](https://www.mouser.com/c/?q=PCM12SMTR) | To turn it on and off | 1 | $2.07 | $2.07 | Mouser |
-| [TDK PS1240P02BT buzzer](https://www.mouser.com/c/?q=PS1240P02BT) | The buzzer | 1 | $1.18 | $1.18 | Mouser |
-| [3 LTST-C190KDKT-10A red LED](https://www.mouser.com/en/ProductDetail/LITEON/LTST-C190KDKT-10A?qs=sGAEpiMZZMt82OzCyDsLFD%252B3tm%2Fp6nZNc6zCAMVNjBI%3D) | For the flashing lights | 1 | $0.83 | $0.83 | Mouser |
-| [Yageo RC0603FR-07100RL (100Ω)](https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D) | Capacitor | 1 | $0.16 | $0.16 | Mouser |
-| [Panasonic ERJ-3EKF1001V (1kΩ)](https://www.mouser.com/en/ProductDetail/Panasonic-Industry/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D) | Led resistance | 1 | $0.49 | $0.49 | Mouser |
-| [Yageo RC0603FR-0710KL (10kΩ)](https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D) | Resistors | 1 | $0.32 | $0.32 | Mouser |
-| [Samsung CL10A475KO8NNNC (4.7µF)](https://www.mouser.com/en/ProductDetail/Samsung-Electro-Mechanics/CL10A475KO8NNNC?qs=X6jEic%2FHinAbIjmLnFfqqQ%3D%3D) | Capacitor | 1 | $0.65 | $0.65 | Mouser |
-| [Wurth-Elektronik 61300211121](https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D) | Connector pins | 1 | $0.21 | $0.21 | Mouser |
-| [Würth 61302011121 (1x20 header)](https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61302011121?qs=PhR8RmCirEbj%2FFsnpbhNaw%3D%3D) | Connectors for the battery | 1 | $3.96 | $3.96 | Mouser |
-| **Parts subtotal** | | | | **$28.46** | |
-| **Tax & shipping** | | | | **included** | |
-| **Total** | | | | **$28.46** | |
+Prices include each part's share of shipping and tariffs. The Mouser order totals $25.66; the OLED is a separate order. All SMD passives are 0603.
+
+| Part | Qty | Unit | Total | Vendor | Purpose |
+|---|---|---|---|---|---|
+| [OLED screen (ER-OLEDM0.91-1W-I2C)](https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi) | 1 | $2.80 | $2.80 | buydisplay.com | The screen |
+| [Raspberry Pi Pico (SC0915)](https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D) | 1 | $6.40 | $6.40 | Mouser | The brain |
+| [MCP73831T-2ACI/MC](https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D) | 1 | $1.28 | $1.28 | Mouser | Battery charger |
+| [JST S2B-PH-SM4-K-TB(LF)(SN)](https://www.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-K-TB-LFSN?qs=QpmGXVUTftGuZtpTcKbMuQ%3D%3D) | 1 | $0.88 | $0.88 | Mouser | Battery connector |
+| [onsemi SS14 Schottky diode](https://www.mouser.com/en/ProductDetail/onsemi/SS14?qs=mVVXn4M53U%252BvrBaFv5vr4w%3D%3D) | 1 | $0.70 | $0.70 | Mouser | Power system |
+| [Adafruit 166 round FSR](https://www.mouser.com/en/ProductDetail/Adafruit/166?qs=GURawfaeGuBZazGyM1uUyQ%3D%3D) | 1 | $6.32 | $6.32 | Mouser | To sense the cup |
+| [Samsung CL10A475KO8NNNC (4.7uF)](https://www.mouser.com/en/ProductDetail/Samsung-Electro-Mechanics/CL10A475KO8NNNC?qs=X6jEic%2FHinAbIjmLnFfqqQ%3D%3D) | 2 | $0.32 | $0.64 | Mouser | Capacitor |
+| [Wurth 61300211121 (1x2 header)](https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D) | 1 | $0.21 | $0.21 | Mouser | Connector pins |
+| [Wurth 61302011121 (1x20 header)](https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61302011121?qs=PhR8RmCirEbj%2FFsnpbhNaw%3D%3D) | 2 | $1.955 | $3.91 | Mouser | Connector pins for the Pico |
+| [Yageo RC0603FR-074K7L (4.7kOhm)](https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D) | 2 | $0.16 | $0.32 | Mouser | Pull-up resistors for the display |
+| [C&K PCM12SMTR switch](https://www.mouser.com/c/?q=PCM12SMTR) | 1 | $2.05 | $2.05 | Mouser | To turn it on and off |
+| [TDK PS1240P02BT buzzer](https://www.mouser.com/c/?q=PS1240P02BT) | 1 | $1.17 | $1.17 | Mouser | The buzzer |
+| [LTST-C190KDKT-10A red LED](https://www.mouser.com/en/ProductDetail/LITEON/LTST-C190KDKT-10A?qs=sGAEpiMZZMt82OzCyDsLFD%252B3tm%2Fp6nZNc6zCAMVNjBI%3D) | 3 | $0.273 | $0.82 | Mouser | For the flashing lights |
+| [Yageo RC0603FR-07100RL (100Ohm)](https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D) | 2 | $0.16 | $0.32 | Mouser | Resistor |
+| [Panasonic ERJ-3EKF1001V (1kOhm)](https://www.mouser.com/en/ProductDetail/Panasonic-Industry/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D) | 3 | $0.16 | $0.48 | Mouser | LED resistance |
+| [Yageo RC0603FR-0710KL (10kOhm)](https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D) | 1 | $0.16 | $0.16 | Mouser | Resistor |
+
+**Total: $28.46** ($25.66 from Mouser + $2.80 OLED from buydisplay.com)
 ## code 
 Here is the most current version of code, it is still very much a prototype right now, it doesn't actually work for the board that I made because it was for a prototype: [`tinker_cad_prototype_code1.ino`](tinker_cad_prototype_code1.ino)
 
