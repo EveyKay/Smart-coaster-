@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Oled screen (ER-OLEDM0.91-1W-I2C),1,buydisplay.com,$2.80,$2.80,https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi
 Raspberry Pi Pico (SC0915),1,Mouser,$6.40,$6.40,https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D
-MCP73831T-2ACI/MC,1,Mouser,$0.00,$0.00,https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D
+MCP73831T-2ACI/MC,1,Mouser,$1.28,$1.28,https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D
 JST S2B-PH-SM4-K-TB(LF)(SN),1,Mouser,$0.00,$0.00,https://www.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-K-TB-LFSN?qs=QpmGXVUTftGuZtpTcKbMuQ%3D%3D
 onsemi SS14 Schottky diode,1,Mouser,$0.00,$0.00,https://www.mouser.com/en/ProductDetail/onsemi/SS14?qs=mVVXn4M53U%252BvrBaFv5vr4w%3D%3D
 Adafruit 166 round FSR,1,Mouser,$0.00,$0.00,https://www.mouser.com/en/ProductDetail/Adafruit/166?qs=GURawfaeGuBZazGyM1uUyQ%3D%3D
