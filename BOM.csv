@@ -1,16 +1,18 @@
-Part,What it's for,Qty,Unit ($),Total ($),Vendor,URL
-Oled screen,The screen,1,2.80,2.80,Buydisplay.com,https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi
-Raspberry Pi Pico (SC0915),The brain,1,6.49,6.49,Mouser,https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D
-MCP73831T-2ACI/MC,Battery charger,1,1.30,1.30,Mouser,https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D
-JST S2B-PH-SM4-K-TB(LF)(SN),Battery connector,1,0.89,0.89,Mouser,https://www.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-K-TB-LFSN?qs=QpmGXVUTftGuZtpTcKbMuQ%3D%3D
-onsemi SS14 Schottky diode,Power system,1,0.71,0.71,Mouser,https://www.mouser.com/en/ProductDetail/onsemi/SS14?qs=mVVXn4M53U%252BvrBaFv5vr4w%3D%3D
-Adafruit 166 round FSR,To sense the cup,1,6.40,6.40,Mouser,https://www.mouser.com/en/ProductDetail/Adafruit/166?qs=GURawfaeGuBZazGyM1uUyQ%3D%3D
-C&K PCM12SMTR switch,To turn it on and off,1,2.07,2.07,Mouser,https://www.mouser.com/c/?q=PCM12SMTR
-TDK PS1240P02BT buzzer,The buzzer,1,1.18,1.18,Mouser,https://www.mouser.com/c/?q=PS1240P02BT
-3 LTST-C190KDKT-10A red LED,For the flashing lights,1,0.83,0.83,Mouser,https://www.mouser.com/en/ProductDetail/LITEON/LTST-C190KDKT-10A?qs=sGAEpiMZZMt82OzCyDsLFD%252B3tm%2Fp6nZNc6zCAMVNjBI%3D
-Yageo RC0603FR-07100RL (100Ω),Capacitor,1,0.16,0.16,Mouser,https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D
-Panasonic ERJ-3EKF1001V (1kΩ),Led resistance,1,0.49,0.49,Mouser,https://www.mouser.com/en/ProductDetail/Panasonic-Industry/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D
-Yageo RC0603FR-0710KL (10kΩ),Resistors,1,0.32,0.32,Mouser,https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D
-Samsung CL10A475KO8NNNC (4.7µF),Capacitor,1,0.65,0.65,Mouser,https://www.mouser.com/en/ProductDetail/Samsung-Electro-Mechanics/CL10A475KO8NNNC?qs=X6jEic%2FHinAbIjmLnFfqqQ%3D%3D
-Wurth-Elektronik 61300211121,Connector pins,1,0.21,0.21,Mouser,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D
-Würth 61302011121 (1x20 header),Connectors for the battery,1,3.96,3.96,Mouser,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61302011121?qs=PhR8RmCirEbj%2FFsnpbhNaw%3D%3D
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Oled screen,1,Buydisplay.com,$2.80,$2.80,https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi
+Raspberry Pi Pico (SC0915),1,Mouser,$6.49,$6.49,https://www.mouser.com/en/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D
+MCP73831T-2ACI/MC,1,Mouser,$1.30,$1.30,https://www.mouser.com/en/ProductDetail/Microchip-Technology/MCP73831T-2ACI-MC?qs=yUQqVecv4quJ3ICqm%2FGZxw%3D%3D
+JST S2B-PH-SM4-K-TB(LF)(SN),1,Mouser,$0.89,$0.89,https://www.mouser.com/en/ProductDetail/JST-Commercial/S2B-PH-SM4-K-TB-LFSN?qs=QpmGXVUTftGuZtpTcKbMuQ%3D%3D
+onsemi SS14 Schottky diode,1,Mouser,$0.71,$0.71,https://www.mouser.com/en/ProductDetail/onsemi/SS14?qs=mVVXn4M53U%252BvrBaFv5vr4w%3D%3D
+Adafruit 166 round FSR,1,Mouser,$6.40,$6.40,https://www.mouser.com/en/ProductDetail/Adafruit/166?qs=GURawfaeGuBZazGyM1uUyQ%3D%3D
+C&K PCM12SMTR switch,1,Mouser,$2.07,$2.07,https://www.mouser.com/c/?q=PCM12SMTR
+TDK PS1240P02BT buzzer,1,Mouser,$1.18,$1.18,https://www.mouser.com/c/?q=PS1240P02BT
+3 LTST-C190KDKT-10A red LED,1,Mouser,$0.83,$0.83,https://www.mouser.com/en/ProductDetail/LITEON/LTST-C190KDKT-10A?qs=sGAEpiMZZMt82OzCyDsLFD%252B3tm%2Fp6nZNc6zCAMVNjBI%3D
+Yageo RC0603FR-07100RL (100Ω),1,Mouser,$0.16,$0.16,https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-07100RL?qs=NEN%2FsE%2FLsvPIwIWKCOS4%2FA%3D%3D
+Panasonic ERJ-3EKF1001V (1kΩ),1,Mouser,$0.49,$0.49,https://www.mouser.com/en/ProductDetail/Panasonic-Industry/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D
+Yageo RC0603FR-0710KL (10kΩ),1,Mouser,$0.32,$0.32,https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-0710KL?qs=grNVn54RoB%252B3GtjbJj3wJQ%3D%3D
+Samsung CL10A475KO8NNNC (4.7µF),1,Mouser,$0.65,$0.65,https://www.mouser.com/en/ProductDetail/Samsung-Electro-Mechanics/CL10A475KO8NNNC?qs=X6jEic%2FHinAbIjmLnFfqqQ%3D%3D
+https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D,1,Mouser,$0.21,$0.21,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61300211121?qs=t4813l51qx%252B1A5GYDQxPlw%3D%3D
+Würth 61302011121 (1x20 header),1,Mouser,$3.96,$3.96,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/61302011121?qs=PhR8RmCirEbj%2FFsnpbhNaw%3D%3D
+Yageo RC0603FR-074K7L,2,Mouser,$0.10,$0.20,https://www.mouser.com/en/ProductDetail/YAGEO/RC0603FR-074K7L?qs=gt6vzsuosg37y0l7Vt36bQ%3D%3D
+Estimated total shipping,1,,,$0.00,

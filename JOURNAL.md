@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-10T12:45:25.855Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv6x02t0e6r01smngei86m1). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > The plan is to create a smart coaster that tells you to drink water when it's been to long since your last sip
 
@@ -74,29 +74,3 @@ Most of this session was spent making the pcb, this was my first time making one
 
 ![11385](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/2e1f87ce1d4213f4bc491d3a514b3fada7b453d7deb16f6595e6c390333f9577.jpg)
 I spent this sessions mostly updating my read me. First I updated the pcb part of my read me, and added pictures and links to the pcb files. Then I did some clean up for some of the other sections.  Lastly I add the parts list, whitch were most of the time went.
--
--
--
-# commits
-Here is a list all the commits I made and what they did, 
-
-### August 5
-- Initial commit
--  synced journal and BOM with halflife
-### August 9 
-- updated readme, made like a layout and started on the what this project is part
-- synced with Halflife
-- accidently added file that I didn't need
-- Deleted the file that I didn't need
-- Re added the real file that I did need
-### August 10 
-- Synced journal with halflife
-- uploaded all the files for the pcb including pictures, main file, drill file, and schematic file 
-- added the picture of the pcb to read me
-- fixed the kicad reference in the readme
-- removed an unneeded section in the readme
-- a lot of syncing the BOM with halflife when I made the BOM.
-- updating the journal with this list of the commits 
-### August 13
-- added bom.csv
-- added bom to readme
